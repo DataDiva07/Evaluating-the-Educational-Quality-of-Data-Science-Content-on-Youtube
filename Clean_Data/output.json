@@ -1,0 +1,3578 @@
+{
+  "video_level": [
+    {
+      "video_id": "RBSUwFGa6Fk",
+      "channel_title": "IBM Technology",
+      "scores": {
+        "Learning Engagement Score": 0.202,
+        "Viewer Approval Score": 0.213,
+        "Learner Interaction Score": 0.038,
+        "Learning Impact Score": 0.173
+      }
+    },
+    {
+      "video_id": "PLVmp1V7kIY",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.238,
+        "Viewer Approval Score": 0.254,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.215
+      }
+    },
+    {
+      "video_id": "PLVmp1V7kIY",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.238,
+        "Viewer Approval Score": 0.254,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.215
+      }
+    },
+    {
+      "video_id": "9R3X0JoCLyU",
+      "channel_title": "Programming with Mosh",
+      "scores": {
+        "Learning Engagement Score": 0.294,
+        "Viewer Approval Score": 0.308,
+        "Learner Interaction Score": 0.074,
+        "Learning Impact Score": 0.254
+      }
+    },
+    {
+      "video_id": "2oOEctI1Uzo",
+      "channel_title": "Jean Lee",
+      "scores": {
+        "Learning Engagement Score": 0.256,
+        "Viewer Approval Score": 0.265,
+        "Learner Interaction Score": 0.084,
+        "Learning Impact Score": 0.224
+      }
+    },
+    {
+      "video_id": "xC-c7E5PK0Y",
+      "channel_title": "Joma Tech",
+      "scores": {
+        "Learning Engagement Score": 0.371,
+        "Viewer Approval Score": 0.388,
+        "Learner Interaction Score": 0.097,
+        "Learning Impact Score": 0.321
+      }
+    },
+    {
+      "video_id": "dcXqhMqhZUo",
+      "channel_title": "IBM Technology",
+      "scores": {
+        "Learning Engagement Score": 0.197,
+        "Viewer Approval Score": 0.207,
+        "Learner Interaction Score": 0.035,
+        "Learning Impact Score": 0.167
+      }
+    },
+    {
+      "video_id": "JL_grPUnXzY",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.132,
+        "Viewer Approval Score": 0.135,
+        "Learner Interaction Score": 0.066,
+        "Learning Impact Score": 0.12
+      }
+    },
+    {
+      "video_id": "3QV37pVP-CI",
+      "channel_title": "CareerFoundry",
+      "scores": {
+        "Learning Engagement Score": 0.379,
+        "Viewer Approval Score": 0.398,
+        "Learner Interaction Score": 0.074,
+        "Learning Impact Score": 0.324
+      }
+    },
+    {
+      "video_id": "X3paOmcrTjQ",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.136,
+        "Viewer Approval Score": 0.143,
+        "Learner Interaction Score": 0.026,
+        "Learning Impact Score": 0.116
+      }
+    },
+    {
+      "video_id": "X3paOmcrTjQ",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.136,
+        "Viewer Approval Score": 0.143,
+        "Learner Interaction Score": 0.026,
+        "Learning Impact Score": 0.116
+      }
+    },
+    {
+      "video_id": "uFTd2b23GvI",
+      "channel_title": "Thu Vu",
+      "scores": {
+        "Learning Engagement Score": 0.496,
+        "Viewer Approval Score": 0.523,
+        "Learner Interaction Score": 0.074,
+        "Learning Impact Score": 0.42
+      }
+    },
+    {
+      "video_id": "X7P2Yi-OU50",
+      "channel_title": "Luke Barousse",
+      "scores": {
+        "Learning Engagement Score": 0.57,
+        "Viewer Approval Score": 0.606,
+        "Learner Interaction Score": 0.044,
+        "Learning Impact Score": 0.476
+      }
+    },
+    {
+      "video_id": "FsSrzmRawUg",
+      "channel_title": "Steve Brunton",
+      "scores": {
+        "Learning Engagement Score": 0.141,
+        "Viewer Approval Score": 0.147,
+        "Learner Interaction Score": 0.038,
+        "Learning Impact Score": 0.122
+      }
+    },
+    {
+      "video_id": "TRVWp3c1Em8",
+      "channel_title": "IBM Technology",
+      "scores": {
+        "Learning Engagement Score": 0.365,
+        "Viewer Approval Score": 0.383,
+        "Learner Interaction Score": 0.072,
+        "Learning Impact Score": 0.312
+      }
+    },
+    {
+      "video_id": "ua-CiDNNj30",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.201,
+        "Viewer Approval Score": 0.211,
+        "Learner Interaction Score": 0.035,
+        "Learning Impact Score": 0.171
+      }
+    },
+    {
+      "video_id": "CKsuUIBW6iU",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.268,
+        "Viewer Approval Score": 0.275,
+        "Learner Interaction Score": 0.118,
+        "Learning Impact Score": 0.24
+      }
+    },
+    {
+      "video_id": "sD468LfeVdc",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.232,
+        "Viewer Approval Score": 0.242,
+        "Learner Interaction Score": 0.058,
+        "Learning Impact Score": 0.2
+      }
+    },
+    {
+      "video_id": "9qqkbPqFq3Q",
+      "channel_title": "Coursera",
+      "scores": {
+        "Learning Engagement Score": 0.362,
+        "Viewer Approval Score": 0.385,
+        "Learner Interaction Score": 0.021,
+        "Learning Impact Score": 0.301
+      }
+    },
+    {
+      "video_id": "S7IDZnvxSV0",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.355,
+        "Viewer Approval Score": 0.371,
+        "Learner Interaction Score": 0.089,
+        "Learning Impact Score": 0.307
+      }
+    },
+    {
+      "video_id": "xPh5ihBWang",
+      "channel_title": "edureka!",
+      "scores": {
+        "Learning Engagement Score": 0.277,
+        "Viewer Approval Score": 0.296,
+        "Learner Interaction Score": 0.006,
+        "Learning Impact Score": 0.229
+      }
+    },
+    {
+      "video_id": "iO_oxGsaBaU",
+      "channel_title": "Emma Ding",
+      "scores": {
+        "Learning Engagement Score": 0.36,
+        "Viewer Approval Score": 0.373,
+        "Learner Interaction Score": 0.115,
+        "Learning Impact Score": 0.315
+      }
+    },
+    {
+      "video_id": "EZ_KDKoBBb4",
+      "channel_title": "Visual Studio Code",
+      "scores": {
+        "Learning Engagement Score": 0.225,
+        "Viewer Approval Score": 0.235,
+        "Learner Interaction Score": 0.058,
+        "Learning Impact Score": 0.195
+      }
+    },
+    {
+      "video_id": "Vxw0nE1qfZc",
+      "channel_title": "IBM Technology",
+      "scores": {
+        "Learning Engagement Score": 0.317,
+        "Viewer Approval Score": 0.332,
+        "Learner Interaction Score": 0.072,
+        "Learning Impact Score": 0.272
+      }
+    },
+    {
+      "video_id": "-ETQ97mXXF0",
+      "channel_title": "edureka!",
+      "scores": {
+        "Learning Engagement Score": 0.192,
+        "Viewer Approval Score": 0.204,
+        "Learner Interaction Score": 0.017,
+        "Learning Impact Score": 0.161
+      }
+    },
+    {
+      "video_id": "KxryzSO1Fjs",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.135,
+        "Viewer Approval Score": 0.138,
+        "Learner Interaction Score": 0.061,
+        "Learning Impact Score": 0.121
+      }
+    },
+    {
+      "video_id": "KxryzSO1Fjs",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.135,
+        "Viewer Approval Score": 0.138,
+        "Learner Interaction Score": 0.061,
+        "Learning Impact Score": 0.121
+      }
+    },
+    {
+      "video_id": "N6BghzuFLIg",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.195,
+        "Viewer Approval Score": 0.205,
+        "Learner Interaction Score": 0.034,
+        "Learning Impact Score": 0.166
+      }
+    },
+    {
+      "video_id": "iJUzouXg5kY",
+      "channel_title": "TEDx Talks",
+      "scores": {
+        "Learning Engagement Score": 0.208,
+        "Viewer Approval Score": 0.216,
+        "Learner Interaction Score": 0.061,
+        "Learning Impact Score": 0.181
+      }
+    },
+    {
+      "video_id": "uLIQ014gWcA",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.182,
+        "Viewer Approval Score": 0.189,
+        "Learner Interaction Score": 0.058,
+        "Learning Impact Score": 0.159
+      }
+    },
+    {
+      "video_id": "uLIQ014gWcA",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.182,
+        "Viewer Approval Score": 0.189,
+        "Learner Interaction Score": 0.058,
+        "Learning Impact Score": 0.159
+      }
+    },
+    {
+      "video_id": "YC2dq5lwE2o",
+      "channel_title": "365 Data Science",
+      "scores": {
+        "Learning Engagement Score": 0.247,
+        "Viewer Approval Score": 0.259,
+        "Learner Interaction Score": 0.046,
+        "Learning Impact Score": 0.21
+      }
+    },
+    {
+      "video_id": "sOZ8MxFw8TQ",
+      "channel_title": "Tina Huang",
+      "scores": {
+        "Learning Engagement Score": 0.28,
+        "Viewer Approval Score": 0.286,
+        "Learner Interaction Score": 0.135,
+        "Learning Impact Score": 0.253
+      }
+    },
+    {
+      "video_id": "bQZk18rke2o",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.19,
+        "Viewer Approval Score": 0.201,
+        "Learner Interaction Score": 0.029,
+        "Learning Impact Score": 0.161
+      }
+    },
+    {
+      "video_id": "bQZk18rke2o",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.19,
+        "Viewer Approval Score": 0.201,
+        "Learner Interaction Score": 0.029,
+        "Learning Impact Score": 0.161
+      }
+    },
+    {
+      "video_id": "uakGF0DP-mk",
+      "channel_title": "Marina Wyss - AI & Machine Learning",
+      "scores": {
+        "Learning Engagement Score": 0.511,
+        "Viewer Approval Score": 0.513,
+        "Learner Interaction Score": 0.353,
+        "Learning Impact Score": 0.48
+      }
+    },
+    {
+      "video_id": "8ZI55Inh1_A",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.174,
+        "Viewer Approval Score": 0.176,
+        "Learner Interaction Score": 0.095,
+        "Learning Impact Score": 0.159
+      }
+    },
+    {
+      "video_id": "5b9Z8toVaAU",
+      "channel_title": "Alura",
+      "scores": {
+        "Learning Engagement Score": 0.731,
+        "Viewer Approval Score": 0.774,
+        "Learner Interaction Score": 0.084,
+        "Learning Impact Score": 0.615
+      }
+    },
+    {
+      "video_id": "OQnvWsYl9rc",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.23,
+        "Viewer Approval Score": 0.222,
+        "Learner Interaction Score": 0.249,
+        "Learning Impact Score": 0.232
+      }
+    },
+    {
+      "video_id": "OQnvWsYl9rc",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.23,
+        "Viewer Approval Score": 0.222,
+        "Learner Interaction Score": 0.249,
+        "Learning Impact Score": 0.232
+      }
+    },
+    {
+      "video_id": "aGu0fbkHhek",
+      "channel_title": "edureka!",
+      "scores": {
+        "Learning Engagement Score": 0.162,
+        "Viewer Approval Score": 0.172,
+        "Learner Interaction Score": 0.016,
+        "Learning Impact Score": 0.136
+      }
+    },
+    {
+      "video_id": "vtCwJKUhizg",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.18,
+        "Viewer Approval Score": 0.192,
+        "Learner Interaction Score": 0.008,
+        "Learning Impact Score": 0.149
+      }
+    },
+    {
+      "video_id": "vtCwJKUhizg",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.18,
+        "Viewer Approval Score": 0.192,
+        "Learner Interaction Score": 0.008,
+        "Learning Impact Score": 0.149
+      }
+    },
+    {
+      "video_id": "HrRA67O-QXI",
+      "channel_title": "Visual Studio Code",
+      "scores": {
+        "Learning Engagement Score": 0.226,
+        "Viewer Approval Score": 0.235,
+        "Learner Interaction Score": 0.062,
+        "Learning Impact Score": 0.196
+      }
+    },
+    {
+      "video_id": "urNjaNCY1mw",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.372,
+        "Viewer Approval Score": 0.382,
+        "Learner Interaction Score": 0.168,
+        "Learning Impact Score": 0.334
+      }
+    },
+    {
+      "video_id": "RCbz5SoEIG0",
+      "channel_title": "edureka!",
+      "scores": {
+        "Learning Engagement Score": 0.27,
+        "Viewer Approval Score": 0.287,
+        "Learner Interaction Score": 0.017,
+        "Learning Impact Score": 0.224
+      }
+    },
+    {
+      "video_id": "YMnqPTLoj7o",
+      "channel_title": "TEDx Talks",
+      "scores": {
+        "Learning Engagement Score": 0.182,
+        "Viewer Approval Score": 0.191,
+        "Learner Interaction Score": 0.036,
+        "Learning Impact Score": 0.155
+      }
+    },
+    {
+      "video_id": "UiV7wf36je0",
+      "channel_title": "Eye on Tech",
+      "scores": {
+        "Learning Engagement Score": 0.084,
+        "Viewer Approval Score": 0.088,
+        "Learner Interaction Score": 0.021,
+        "Learning Impact Score": 0.072
+      }
+    },
+    {
+      "video_id": "9OA757v4FAM",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.393,
+        "Viewer Approval Score": 0.409,
+        "Learner Interaction Score": 0.118,
+        "Learning Impact Score": 0.343
+      }
+    },
+    {
+      "video_id": "VbB9irtpoDc",
+      "channel_title": "Marina Wyss - AI & Machine Learning",
+      "scores": {
+        "Learning Engagement Score": 0.371,
+        "Viewer Approval Score": 0.363,
+        "Learner Interaction Score": 0.353,
+        "Learning Impact Score": 0.365
+      }
+    },
+    {
+      "video_id": "4DlsTsqpY84",
+      "channel_title": "Google Career Certificates",
+      "scores": {
+        "Learning Engagement Score": 0.009,
+        "Viewer Approval Score": 0.009,
+        "Learner Interaction Score": 0.005,
+        "Learning Impact Score": 0.008
+      }
+    },
+    {
+      "video_id": "8beNeAvdWDE",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.213,
+        "Viewer Approval Score": 0.223,
+        "Learner Interaction Score": 0.049,
+        "Learning Impact Score": 0.183
+      }
+    },
+    {
+      "video_id": "WU-UrrP2OWU",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.243,
+        "Viewer Approval Score": 0.258,
+        "Learner Interaction Score": 0.012,
+        "Learning Impact Score": 0.201
+      }
+    },
+    {
+      "video_id": "WU-UrrP2OWU",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.243,
+        "Viewer Approval Score": 0.258,
+        "Learner Interaction Score": 0.012,
+        "Learning Impact Score": 0.201
+      }
+    },
+    {
+      "video_id": "J5c70VVA9bU",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.348,
+        "Viewer Approval Score": 0.353,
+        "Learner Interaction Score": 0.204,
+        "Learning Impact Score": 0.321
+      }
+    },
+    {
+      "video_id": "AMfBqFcuuyk",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.263,
+        "Viewer Approval Score": 0.279,
+        "Learner Interaction Score": 0.02,
+        "Learning Impact Score": 0.219
+      }
+    },
+    {
+      "video_id": "3O-uRFt9zeI",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.268,
+        "Viewer Approval Score": 0.281,
+        "Learner Interaction Score": 0.051,
+        "Learning Impact Score": 0.228
+      }
+    },
+    {
+      "video_id": "fx5GP00IcHs",
+      "channel_title": "Egor Howell",
+      "scores": {
+        "Learning Engagement Score": 0.25,
+        "Viewer Approval Score": 0.241,
+        "Learner Interaction Score": 0.272,
+        "Learning Impact Score": 0.252
+      }
+    },
+    {
+      "video_id": "JDcZBzb46ts",
+      "channel_title": "Great Learning",
+      "scores": {
+        "Learning Engagement Score": 0.225,
+        "Viewer Approval Score": 0.234,
+        "Learner Interaction Score": 0.069,
+        "Learning Impact Score": 0.197
+      }
+    },
+    {
+      "video_id": "JDcZBzb46ts",
+      "channel_title": "Great Learning",
+      "scores": {
+        "Learning Engagement Score": 0.225,
+        "Viewer Approval Score": 0.234,
+        "Learner Interaction Score": 0.069,
+        "Learning Impact Score": 0.197
+      }
+    },
+    {
+      "video_id": "6FjXcNt5FrA",
+      "channel_title": "Sajjaad Khader",
+      "scores": {
+        "Learning Engagement Score": 0.289,
+        "Viewer Approval Score": 0.309,
+        "Learner Interaction Score": 0.005,
+        "Learning Impact Score": 0.238
+      }
+    },
+    {
+      "video_id": "ph439t-kTIE",
+      "channel_title": "TEDx Talks",
+      "scores": {
+        "Learning Engagement Score": 0.284,
+        "Viewer Approval Score": 0.298,
+        "Learner Interaction Score": 0.057,
+        "Learning Impact Score": 0.243
+      }
+    },
+    {
+      "video_id": "YJCeA8cUC90",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.252,
+        "Viewer Approval Score": 0.255,
+        "Learner Interaction Score": 0.152,
+        "Learning Impact Score": 0.233
+      }
+    },
+    {
+      "video_id": "C5kvx8J3010",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.146,
+        "Viewer Approval Score": 0.154,
+        "Learner Interaction Score": 0.022,
+        "Learning Impact Score": 0.124
+      }
+    },
+    {
+      "video_id": "C5kvx8J3010",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.146,
+        "Viewer Approval Score": 0.154,
+        "Learner Interaction Score": 0.022,
+        "Learning Impact Score": 0.124
+      }
+    },
+    {
+      "video_id": "XU5pw3QRYjQ",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.254,
+        "Viewer Approval Score": 0.265,
+        "Learner Interaction Score": 0.063,
+        "Learning Impact Score": 0.219
+      }
+    },
+    {
+      "video_id": "-JOoeynadEQ",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.514,
+        "Viewer Approval Score": 0.548,
+        "Learner Interaction Score": 0.014,
+        "Learning Impact Score": 0.424
+      }
+    },
+    {
+      "video_id": "4mnzI59VlgU",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.157,
+        "Viewer Approval Score": 0.168,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.148
+      }
+    },
+    {
+      "video_id": "4mnzI59VlgU",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.157,
+        "Viewer Approval Score": 0.168,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.148
+      }
+    },
+    {
+      "video_id": "q1DWEkcFu38",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.309,
+        "Viewer Approval Score": 0.331,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.274
+      }
+    },
+    {
+      "video_id": "q1DWEkcFu38",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.309,
+        "Viewer Approval Score": 0.331,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.274
+      }
+    },
+    {
+      "video_id": "o3DU3iWXTP0",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": NaN,
+        "Learner Interaction Score": 0.041,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "u2zsY-2uZiE",
+      "channel_title": "Great Learning",
+      "scores": {
+        "Learning Engagement Score": 0.285,
+        "Viewer Approval Score": 0.299,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.243
+      }
+    },
+    {
+      "video_id": "u2zsY-2uZiE",
+      "channel_title": "Great Learning",
+      "scores": {
+        "Learning Engagement Score": 0.285,
+        "Viewer Approval Score": 0.299,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.243
+      }
+    },
+    {
+      "video_id": "y7xbHtFostg",
+      "channel_title": "Shaw Talebi",
+      "scores": {
+        "Learning Engagement Score": 0.233,
+        "Viewer Approval Score": 0.245,
+        "Learner Interaction Score": 0.041,
+        "Learning Impact Score": 0.198
+      }
+    },
+    {
+      "video_id": "4ZqIgl1KN8c",
+      "channel_title": "Cité des Métiers des Côtes d'Armor",
+      "scores": {
+        "Learning Engagement Score": 0.133,
+        "Viewer Approval Score": 0.141,
+        "Learner Interaction Score": 0.014,
+        "Learning Impact Score": 0.112
+      }
+    },
+    {
+      "video_id": "pVNzVvHV1No",
+      "channel_title": "DataScientest",
+      "scores": {
+        "Learning Engagement Score": 0.127,
+        "Viewer Approval Score": 0.128,
+        "Learner Interaction Score": 0.085,
+        "Learning Impact Score": 0.119
+      }
+    },
+    {
+      "video_id": "XHmp9lDcQDw",
+      "channel_title": "DataScientest",
+      "scores": {
+        "Learning Engagement Score": 0.318,
+        "Viewer Approval Score": 0.333,
+        "Learner Interaction Score": 0.08,
+        "Learning Impact Score": 0.275
+      }
+    },
+    {
+      "video_id": "KZgd2UiapE0",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.331,
+        "Viewer Approval Score": 0.347,
+        "Learner Interaction Score": 0.072,
+        "Learning Impact Score": 0.284
+      }
+    },
+    {
+      "video_id": "D0AocXiPNMY",
+      "channel_title": "Purwadhika Digital Technology School",
+      "scores": {
+        "Learning Engagement Score": 0.289,
+        "Viewer Approval Score": 0.294,
+        "Learner Interaction Score": 0.154,
+        "Learning Impact Score": 0.264
+      }
+    },
+    {
+      "video_id": "9Ql_Lr7nQN4",
+      "channel_title": "Luke Barousse",
+      "scores": {
+        "Learning Engagement Score": 0.411,
+        "Viewer Approval Score": 0.439,
+        "Learner Interaction Score": 0.009,
+        "Learning Impact Score": 0.339
+      }
+    },
+    {
+      "video_id": "nI8ipp96B90",
+      "channel_title": "Asimov Academy",
+      "scores": {
+        "Learning Engagement Score": 0.578,
+        "Viewer Approval Score": 0.605,
+        "Learner Interaction Score": 0.131,
+        "Learning Impact Score": 0.497
+      }
+    },
+    {
+      "video_id": "uSFkQ45iRdE",
+      "channel_title": "SOMOY TV Bulletin",
+      "scores": {
+        "Learning Engagement Score": 0.233,
+        "Viewer Approval Score": 0.244,
+        "Learner Interaction Score": 0.05,
+        "Learning Impact Score": 0.2
+      }
+    },
+    {
+      "video_id": "ygTWJkbFb3Q",
+      "channel_title": "UPES",
+      "scores": {
+        "Learning Engagement Score": 0.0,
+        "Viewer Approval Score": 0.0,
+        "Learner Interaction Score": 0.0,
+        "Learning Impact Score": 0.0
+      }
+    },
+    {
+      "video_id": "DDJaJJT_jPw",
+      "channel_title": "365 Data Science",
+      "scores": {
+        "Learning Engagement Score": 0.301,
+        "Viewer Approval Score": 0.312,
+        "Learner Interaction Score": 0.108,
+        "Learning Impact Score": 0.266
+      }
+    },
+    {
+      "video_id": "4VENens_ZU8",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.331,
+        "Viewer Approval Score": 0.333,
+        "Learner Interaction Score": 0.215,
+        "Learning Impact Score": 0.309
+      }
+    },
+    {
+      "video_id": "4VENens_ZU8",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.331,
+        "Viewer Approval Score": 0.333,
+        "Learner Interaction Score": 0.215,
+        "Learning Impact Score": 0.309
+      }
+    },
+    {
+      "video_id": "mkv5mxYu0Wk",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.147,
+        "Viewer Approval Score": 0.143,
+        "Learner Interaction Score": 0.146,
+        "Learning Impact Score": 0.145
+      }
+    },
+    {
+      "video_id": "mkv5mxYu0Wk",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.147,
+        "Viewer Approval Score": 0.143,
+        "Learner Interaction Score": 0.146,
+        "Learning Impact Score": 0.145
+      }
+    },
+    {
+      "video_id": "PFPt6PQNslE",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.376,
+        "Viewer Approval Score": 0.373,
+        "Learner Interaction Score": 0.302,
+        "Learning Impact Score": 0.36
+      }
+    },
+    {
+      "video_id": "oFkygFxJ9js",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.24,
+        "Viewer Approval Score": 0.251,
+        "Learner Interaction Score": 0.065,
+        "Learning Impact Score": 0.208
+      }
+    },
+    {
+      "video_id": "ixVR8uPetHQ",
+      "channel_title": "DataScientest",
+      "scores": {
+        "Learning Engagement Score": 0.256,
+        "Viewer Approval Score": 0.268,
+        "Learner Interaction Score": 0.064,
+        "Learning Impact Score": 0.221
+      }
+    },
+    {
+      "video_id": "Wth_--EreGs",
+      "channel_title": "Rai",
+      "scores": {
+        "Learning Engagement Score": 0.096,
+        "Viewer Approval Score": 0.1,
+        "Learner Interaction Score": 0.025,
+        "Learning Impact Score": 0.083
+      }
+    },
+    {
+      "video_id": "Axx9cQ4vtNw",
+      "channel_title": "Afi Global Education",
+      "scores": {
+        "Learning Engagement Score": 0.312,
+        "Viewer Approval Score": 0.321,
+        "Learner Interaction Score": 0.134,
+        "Learning Impact Score": 0.279
+      }
+    },
+    {
+      "video_id": "Bl2sBiVdZHs",
+      "channel_title": "Platzi",
+      "scores": {
+        "Learning Engagement Score": 0.207,
+        "Viewer Approval Score": 0.213,
+        "Learner Interaction Score": 0.09,
+        "Learning Impact Score": 0.185
+      }
+    },
+    {
+      "video_id": "M09ELxLHgBc",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.143,
+        "Viewer Approval Score": 0.152,
+        "Learner Interaction Score": 0.007,
+        "Learning Impact Score": 0.119
+      }
+    },
+    {
+      "video_id": "M09ELxLHgBc",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.143,
+        "Viewer Approval Score": 0.152,
+        "Learner Interaction Score": 0.007,
+        "Learning Impact Score": 0.119
+      }
+    },
+    {
+      "video_id": "cfHp0vvT0YM",
+      "channel_title": "Data with Zach",
+      "scores": {
+        "Learning Engagement Score": 0.449,
+        "Viewer Approval Score": 0.47,
+        "Learner Interaction Score": 0.107,
+        "Learning Impact Score": 0.387
+      }
+    },
+    {
+      "video_id": "8mcbW5C0dWY",
+      "channel_title": "Thai PBS",
+      "scores": {
+        "Learning Engagement Score": 0.417,
+        "Viewer Approval Score": 0.431,
+        "Learner Interaction Score": 0.148,
+        "Learning Impact Score": 0.367
+      }
+    },
+    {
+      "video_id": "BF9yShzrok0",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.363,
+        "Viewer Approval Score": 0.381,
+        "Learner Interaction Score": 0.078,
+        "Learning Impact Score": 0.311
+      }
+    },
+    {
+      "video_id": "EeXoHhUdO8Q",
+      "channel_title": "Sajjaad Khader",
+      "scores": {
+        "Learning Engagement Score": 0.232,
+        "Viewer Approval Score": 0.235,
+        "Learner Interaction Score": 0.134,
+        "Learning Impact Score": 0.213
+      }
+    },
+    {
+      "video_id": "jtn-hRJjl68",
+      "channel_title": "Apna College",
+      "scores": {
+        "Learning Engagement Score": 0.403,
+        "Viewer Approval Score": 0.42,
+        "Learner Interaction Score": 0.114,
+        "Learning Impact Score": 0.35
+      }
+    },
+    {
+      "video_id": "LHBE6Q9XlzI",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.21,
+        "Viewer Approval Score": 0.221,
+        "Learner Interaction Score": 0.039,
+        "Learning Impact Score": 0.179
+      }
+    },
+    {
+      "video_id": "ungiC5ugka8",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.3,
+        "Viewer Approval Score": 0.318,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.251
+      }
+    },
+    {
+      "video_id": "oxx-EuXWP-Q",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.266,
+        "Viewer Approval Score": 0.281,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.223
+      }
+    },
+    {
+      "video_id": "OivTPt5LQh0",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.297,
+        "Viewer Approval Score": 0.31,
+        "Learner Interaction Score": 0.076,
+        "Learning Impact Score": 0.257
+      }
+    },
+    {
+      "video_id": "YsRDM6eoRq8",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.257,
+        "Viewer Approval Score": 0.271,
+        "Learner Interaction Score": 0.04,
+        "Learning Impact Score": 0.218
+      }
+    },
+    {
+      "video_id": "5x3hnmU-OSU",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.194,
+        "Viewer Approval Score": 0.204,
+        "Learner Interaction Score": 0.039,
+        "Learning Impact Score": 0.166
+      }
+    },
+    {
+      "video_id": "dkVayeE1LY8",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.52,
+        "Viewer Approval Score": 0.551,
+        "Learner Interaction Score": 0.045,
+        "Learning Impact Score": 0.434
+      }
+    },
+    {
+      "video_id": "QHystzb6iYo",
+      "channel_title": "Marina Wyss - AI & Machine Learning",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": NaN,
+        "Learner Interaction Score": 0.148,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "knDa_r4Nggw",
+      "channel_title": "Top Universities",
+      "scores": {
+        "Learning Engagement Score": 0.093,
+        "Viewer Approval Score": 0.099,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.096
+      }
+    },
+    {
+      "video_id": "RbSwB3u6zrs",
+      "channel_title": "What's AI by Louis-François Bouchard",
+      "scores": {
+        "Learning Engagement Score": 0.254,
+        "Viewer Approval Score": 0.271,
+        "Learner Interaction Score": 0.007,
+        "Learning Impact Score": 0.21
+      }
+    },
+    {
+      "video_id": "x9PlR2CLxwY",
+      "channel_title": "Rafa Gonzalez Gouveia",
+      "scores": {
+        "Learning Engagement Score": 0.738,
+        "Viewer Approval Score": 0.763,
+        "Learner Interaction Score": 0.261,
+        "Learning Impact Score": 0.65
+      }
+    },
+    {
+      "video_id": "rs2TT5d-onY",
+      "channel_title": "Salary Transparent Street",
+      "scores": {
+        "Learning Engagement Score": 0.284,
+        "Viewer Approval Score": 0.297,
+        "Learner Interaction Score": 0.062,
+        "Learning Impact Score": 0.243
+      }
+    },
+    {
+      "video_id": "uing9iBVVj8",
+      "channel_title": "Skooldio",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": NaN,
+        "Learner Interaction Score": 0.115,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "pWWooQr_3ok",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.282,
+        "Viewer Approval Score": 0.294,
+        "Learner Interaction Score": 0.072,
+        "Learning Impact Score": 0.244
+      }
+    },
+    {
+      "video_id": "ax_NNtpSb0c",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.232,
+        "Viewer Approval Score": 0.235,
+        "Learner Interaction Score": 0.132,
+        "Learning Impact Score": 0.213
+      }
+    },
+    {
+      "video_id": "fjeIV24tfCg",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.448,
+        "Viewer Approval Score": 0.475,
+        "Learner Interaction Score": 0.04,
+        "Learning Impact Score": 0.375
+      }
+    },
+    {
+      "video_id": "fjeIV24tfCg",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.448,
+        "Viewer Approval Score": 0.475,
+        "Learner Interaction Score": 0.04,
+        "Learning Impact Score": 0.375
+      }
+    },
+    {
+      "video_id": "oxx-EuXWP-Q",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.266,
+        "Viewer Approval Score": 0.281,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.223
+      }
+    },
+    {
+      "video_id": "Ep7_U4UDBAs",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.489,
+        "Viewer Approval Score": 0.521,
+        "Learner Interaction Score": 0.02,
+        "Learning Impact Score": 0.405
+      }
+    },
+    {
+      "video_id": "Ep7_U4UDBAs",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.489,
+        "Viewer Approval Score": 0.521,
+        "Learner Interaction Score": 0.02,
+        "Learning Impact Score": 0.405
+      }
+    },
+    {
+      "video_id": "YRJbhFLLPyE",
+      "channel_title": "Programming with Mosh",
+      "scores": {
+        "Learning Engagement Score": 0.267,
+        "Viewer Approval Score": 0.28,
+        "Learner Interaction Score": 0.061,
+        "Learning Impact Score": 0.23
+      }
+    },
+    {
+      "video_id": "_4RVudwQL38",
+      "channel_title": "Egor Howell",
+      "scores": {
+        "Learning Engagement Score": 0.607,
+        "Viewer Approval Score": 0.583,
+        "Learner Interaction Score": 0.678,
+        "Learning Impact Score": 0.614
+      }
+    },
+    {
+      "video_id": "XtYpxjTawVE",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.382,
+        "Viewer Approval Score": 0.408,
+        "Learner Interaction Score": 0.01,
+        "Learning Impact Score": 0.316
+      }
+    },
+    {
+      "video_id": "5x3hnmU-OSU",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.194,
+        "Viewer Approval Score": 0.204,
+        "Learner Interaction Score": 0.039,
+        "Learning Impact Score": 0.166
+      }
+    },
+    {
+      "video_id": "ruDfwMFpUh0",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.271,
+        "Viewer Approval Score": 0.288,
+        "Learner Interaction Score": 0.019,
+        "Learning Impact Score": 0.226
+      }
+    },
+    {
+      "video_id": "ruDfwMFpUh0",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.271,
+        "Viewer Approval Score": 0.288,
+        "Learner Interaction Score": 0.019,
+        "Learning Impact Score": 0.226
+      }
+    },
+    {
+      "video_id": "bd8dRl-P_XI",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.372,
+        "Viewer Approval Score": 0.389,
+        "Learner Interaction Score": 0.087,
+        "Learning Impact Score": 0.32
+      }
+    },
+    {
+      "video_id": "EkFM8hBBZLw",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.17,
+        "Viewer Approval Score": 0.181,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.159
+      }
+    },
+    {
+      "video_id": "EkFM8hBBZLw",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.17,
+        "Viewer Approval Score": 0.181,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.159
+      }
+    },
+    {
+      "video_id": "N2UPlYHmvmk",
+      "channel_title": "Great Learning",
+      "scores": {
+        "Learning Engagement Score": 0.265,
+        "Viewer Approval Score": 0.277,
+        "Learner Interaction Score": 0.057,
+        "Learning Impact Score": 0.227
+      }
+    },
+    {
+      "video_id": "N2UPlYHmvmk",
+      "channel_title": "Great Learning",
+      "scores": {
+        "Learning Engagement Score": 0.265,
+        "Viewer Approval Score": 0.277,
+        "Learner Interaction Score": 0.057,
+        "Learning Impact Score": 0.227
+      }
+    },
+    {
+      "video_id": "fOqPWQ28s20",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.31,
+        "Viewer Approval Score": 0.332,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.274
+      }
+    },
+    {
+      "video_id": "t8JRidxZCXU",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.334,
+        "Viewer Approval Score": 0.349,
+        "Learner Interaction Score": 0.086,
+        "Learning Impact Score": 0.289
+      }
+    },
+    {
+      "video_id": "LgW6Vla0kXA",
+      "channel_title": "The iScale",
+      "scores": {
+        "Learning Engagement Score": 0.314,
+        "Viewer Approval Score": 0.299,
+        "Learner Interaction Score": 0.382,
+        "Learning Impact Score": 0.323
+      }
+    },
+    {
+      "video_id": "OSouzugoOXs",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.31,
+        "Viewer Approval Score": 0.328,
+        "Learner Interaction Score": 0.032,
+        "Learning Impact Score": 0.26
+      }
+    },
+    {
+      "video_id": "INKwazzVTAk",
+      "channel_title": "Chai aur Code",
+      "scores": {
+        "Learning Engagement Score": 0.597,
+        "Viewer Approval Score": 0.55,
+        "Learner Interaction Score": 0.906,
+        "Learning Impact Score": 0.645
+      }
+    },
+    {
+      "video_id": "B1BngJDZPfw",
+      "channel_title": "Data with Zach",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": NaN,
+        "Learner Interaction Score": 0.073,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "JIbfzmt2LuY",
+      "channel_title": "Apna College",
+      "scores": {
+        "Learning Engagement Score": 0.621,
+        "Viewer Approval Score": 0.662,
+        "Learner Interaction Score": 0.022,
+        "Learning Impact Score": 0.513
+      }
+    },
+    {
+      "video_id": "PopKlyqTPAI",
+      "channel_title": "GeeksforGeeks",
+      "scores": {
+        "Learning Engagement Score": 0.4,
+        "Viewer Approval Score": 0.426,
+        "Learner Interaction Score": 0.011,
+        "Learning Impact Score": 0.33
+      }
+    },
+    {
+      "video_id": "x60LqaZrfzg",
+      "channel_title": "Analytics Vidhya",
+      "scores": {
+        "Learning Engagement Score": 0.527,
+        "Viewer Approval Score": 0.556,
+        "Learner Interaction Score": 0.079,
+        "Learning Impact Score": 0.446
+      }
+    },
+    {
+      "video_id": "PcYZyb93Peg",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.458,
+        "Viewer Approval Score": 0.478,
+        "Learner Interaction Score": 0.12,
+        "Learning Impact Score": 0.396
+      }
+    },
+    {
+      "video_id": "E0TLfCpFZTk",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.207,
+        "Viewer Approval Score": 0.217,
+        "Learner Interaction Score": 0.038,
+        "Learning Impact Score": 0.176
+      }
+    },
+    {
+      "video_id": "XTw0nCJ6Q1c",
+      "channel_title": "Tech Classes",
+      "scores": {
+        "Learning Engagement Score": 0.136,
+        "Viewer Approval Score": 0.143,
+        "Learner Interaction Score": 0.018,
+        "Learning Impact Score": 0.114
+      }
+    },
+    {
+      "video_id": "NLdWz6I82-c",
+      "channel_title": "Skooldio",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": NaN,
+        "Learner Interaction Score": 0.058,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "L5bxMgXEfTw",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.324,
+        "Viewer Approval Score": 0.344,
+        "Learner Interaction Score": 0.021,
+        "Learning Impact Score": 0.27
+      }
+    },
+    {
+      "video_id": "yBcfzZJ-gS8",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.364,
+        "Viewer Approval Score": 0.369,
+        "Learner Interaction Score": 0.215,
+        "Learning Impact Score": 0.336
+      }
+    },
+    {
+      "video_id": "z8kAQPEVanw",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.365,
+        "Viewer Approval Score": 0.387,
+        "Learner Interaction Score": 0.043,
+        "Learning Impact Score": 0.307
+      }
+    },
+    {
+      "video_id": "LxyudhEl8pE",
+      "channel_title": "Darshil Parmar",
+      "scores": {
+        "Learning Engagement Score": 0.663,
+        "Viewer Approval Score": 0.705,
+        "Learner Interaction Score": 0.038,
+        "Learning Impact Score": 0.551
+      }
+    },
+    {
+      "video_id": "rMvkRQGRjMM",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.258,
+        "Viewer Approval Score": 0.274,
+        "Learner Interaction Score": 0.017,
+        "Learning Impact Score": 0.214
+      }
+    },
+    {
+      "video_id": "MDDakzhv3_8",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.282,
+        "Viewer Approval Score": 0.301,
+        "Learner Interaction Score": 0.008,
+        "Learning Impact Score": 0.233
+      }
+    },
+    {
+      "video_id": "MDDakzhv3_8",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.282,
+        "Viewer Approval Score": 0.301,
+        "Learner Interaction Score": 0.008,
+        "Learning Impact Score": 0.233
+      }
+    },
+    {
+      "video_id": "kDR-v7wps7o",
+      "channel_title": "INTTRVU",
+      "scores": {
+        "Learning Engagement Score": 0.255,
+        "Viewer Approval Score": 0.272,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.229
+      }
+    },
+    {
+      "video_id": "uEfvSWM49pY",
+      "channel_title": "Data with Baraa",
+      "scores": {
+        "Learning Engagement Score": 0.547,
+        "Viewer Approval Score": 0.534,
+        "Learner Interaction Score": 0.531,
+        "Learning Impact Score": 0.54
+      }
+    },
+    {
+      "video_id": "uEfvSWM49pY",
+      "channel_title": "Data with Baraa",
+      "scores": {
+        "Learning Engagement Score": 0.547,
+        "Viewer Approval Score": 0.534,
+        "Learner Interaction Score": 0.531,
+        "Learning Impact Score": 0.54
+      }
+    },
+    {
+      "video_id": "LZzq1zSL1bs",
+      "channel_title": "Krish Naik",
+      "scores": {
+        "Learning Engagement Score": 0.184,
+        "Viewer Approval Score": 0.191,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.16
+      }
+    },
+    {
+      "video_id": "xxpc-HPKN28",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.211,
+        "Viewer Approval Score": 0.223,
+        "Learner Interaction Score": 0.034,
+        "Learning Impact Score": 0.179
+      }
+    },
+    {
+      "video_id": "lGToag98-8k",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.346,
+        "Viewer Approval Score": 0.355,
+        "Learner Interaction Score": 0.158,
+        "Learning Impact Score": 0.311
+      }
+    },
+    {
+      "video_id": "K-eaT4V8j-w",
+      "channel_title": "Alura",
+      "scores": {
+        "Learning Engagement Score": 0.593,
+        "Viewer Approval Score": 0.613,
+        "Learner Interaction Score": 0.217,
+        "Learning Impact Score": 0.524
+      }
+    },
+    {
+      "video_id": "WOazgGn_0ew",
+      "channel_title": "Mo Chen",
+      "scores": {
+        "Learning Engagement Score": 0.488,
+        "Viewer Approval Score": 0.504,
+        "Learner Interaction Score": 0.184,
+        "Learning Impact Score": 0.432
+      }
+    },
+    {
+      "video_id": "TWjv4j1g02g",
+      "channel_title": "Maggie In Data",
+      "scores": {
+        "Learning Engagement Score": 0.597,
+        "Viewer Approval Score": 0.637,
+        "Learner Interaction Score": 0.014,
+        "Learning Impact Score": 0.492
+      }
+    },
+    {
+      "video_id": "GhFgnkLPZj4",
+      "channel_title": "Egor Howell",
+      "scores": {
+        "Learning Engagement Score": 0.249,
+        "Viewer Approval Score": 0.248,
+        "Learner Interaction Score": 0.187,
+        "Learning Impact Score": 0.236
+      }
+    },
+    {
+      "video_id": "g_HCqb8mA5A",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.497,
+        "Viewer Approval Score": 0.531,
+        "Learner Interaction Score": 0.012,
+        "Learning Impact Score": 0.41
+      }
+    },
+    {
+      "video_id": "wjX7NrslukE",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.284,
+        "Viewer Approval Score": 0.3,
+        "Learner Interaction Score": 0.041,
+        "Learning Impact Score": 0.24
+      }
+    },
+    {
+      "video_id": "wjX7NrslukE",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.284,
+        "Viewer Approval Score": 0.3,
+        "Learner Interaction Score": 0.041,
+        "Learning Impact Score": 0.24
+      }
+    },
+    {
+      "video_id": "8YbeH4vYtrM",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.153,
+        "Viewer Approval Score": 0.159,
+        "Learner Interaction Score": 0.051,
+        "Learning Impact Score": 0.134
+      }
+    },
+    {
+      "video_id": "8YbeH4vYtrM",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.153,
+        "Viewer Approval Score": 0.159,
+        "Learner Interaction Score": 0.051,
+        "Learning Impact Score": 0.134
+      }
+    },
+    {
+      "video_id": "61z-8HDO5QQ",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.082,
+        "Viewer Approval Score": 0.088,
+        "Learner Interaction Score": 0.005,
+        "Learning Impact Score": 0.069
+      }
+    },
+    {
+      "video_id": "6Fr-HAzyyzA",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.349,
+        "Viewer Approval Score": 0.371,
+        "Learner Interaction Score": 0.023,
+        "Learning Impact Score": 0.29
+      }
+    },
+    {
+      "video_id": "bno03RUhMIY",
+      "channel_title": "Apna College",
+      "scores": {
+        "Learning Engagement Score": 0.322,
+        "Viewer Approval Score": 0.332,
+        "Learner Interaction Score": 0.125,
+        "Learning Impact Score": 0.285
+      }
+    },
+    {
+      "video_id": "24J7Cir0Dvo",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.099,
+        "Viewer Approval Score": 0.088,
+        "Learner Interaction Score": 0.185,
+        "Learning Impact Score": 0.113
+      }
+    },
+    {
+      "video_id": "yz64p4uDBmI",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.377,
+        "Viewer Approval Score": 0.4,
+        "Learner Interaction Score": 0.032,
+        "Learning Impact Score": 0.315
+      }
+    },
+    {
+      "video_id": "d8ob3mdgqBI",
+      "channel_title": "Sajjaad Khader",
+      "scores": {
+        "Learning Engagement Score": 0.15,
+        "Viewer Approval Score": 0.157,
+        "Learner Interaction Score": 0.029,
+        "Learning Impact Score": 0.128
+      }
+    },
+    {
+      "video_id": "xQc0e9OMd7s",
+      "channel_title": "codebasics",
+      "scores": {
+        "Learning Engagement Score": 0.363,
+        "Viewer Approval Score": 0.385,
+        "Learner Interaction Score": 0.026,
+        "Learning Impact Score": 0.302
+      }
+    },
+    {
+      "video_id": "OJyCtg6cdto",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.412,
+        "Viewer Approval Score": 0.441,
+        "Learner Interaction Score": 0.001,
+        "Learning Impact Score": 0.338
+      }
+    },
+    {
+      "video_id": "OJyCtg6cdto",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.412,
+        "Viewer Approval Score": 0.441,
+        "Learner Interaction Score": 0.001,
+        "Learning Impact Score": 0.338
+      }
+    },
+    {
+      "video_id": "Up6KLx3m2ww",
+      "channel_title": "edureka!",
+      "scores": {
+        "Learning Engagement Score": 0.12,
+        "Viewer Approval Score": 0.126,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.103
+      }
+    },
+    {
+      "video_id": "3NnByCLtsoI",
+      "channel_title": "Jerry Strazzeri",
+      "scores": {
+        "Learning Engagement Score": 1.0,
+        "Viewer Approval Score": 0.972,
+        "Learner Interaction Score": 1.0,
+        "Learning Impact Score": 0.992
+      }
+    },
+    {
+      "video_id": "rQo1vkCe8OE",
+      "channel_title": "Marina Wyss - AI & Machine Learning",
+      "scores": {
+        "Learning Engagement Score": 0.535,
+        "Viewer Approval Score": 0.562,
+        "Learner Interaction Score": 0.102,
+        "Learning Impact Score": 0.457
+      }
+    },
+    {
+      "video_id": "QxwTxYjfrRg",
+      "channel_title": "ANKIT",
+      "scores": {
+        "Learning Engagement Score": 0.204,
+        "Viewer Approval Score": 0.216,
+        "Learner Interaction Score": 0.019,
+        "Learning Impact Score": 0.171
+      }
+    },
+    {
+      "video_id": "VwEHYvgK3fs",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.518,
+        "Viewer Approval Score": 0.545,
+        "Learner Interaction Score": 0.089,
+        "Learning Impact Score": 0.44
+      }
+    },
+    {
+      "video_id": "VwEHYvgK3fs",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.518,
+        "Viewer Approval Score": 0.545,
+        "Learner Interaction Score": 0.089,
+        "Learning Impact Score": 0.44
+      }
+    },
+    {
+      "video_id": "pSpi8RD18hA",
+      "channel_title": "Uncodemy",
+      "scores": {
+        "Learning Engagement Score": 0.12,
+        "Viewer Approval Score": 0.129,
+        "Learner Interaction Score": 0.002,
+        "Learning Impact Score": 0.099
+      }
+    },
+    {
+      "video_id": "gDZ6czwuQ18",
+      "channel_title": "WsCube Tech",
+      "scores": {
+        "Learning Engagement Score": 0.284,
+        "Viewer Approval Score": 0.296,
+        "Learner Interaction Score": 0.079,
+        "Learning Impact Score": 0.246
+      }
+    },
+    {
+      "video_id": "P6VZcucF4U8",
+      "channel_title": "Codelopment",
+      "scores": {
+        "Learning Engagement Score": 0.283,
+        "Viewer Approval Score": 0.23,
+        "Learner Interaction Score": 0.755,
+        "Learning Impact Score": 0.361
+      }
+    },
+    {
+      "video_id": "38covGUWUbw",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.354,
+        "Viewer Approval Score": 0.376,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.295
+      }
+    },
+    {
+      "video_id": "r1xphxV7rfw",
+      "channel_title": "Khoury College of Computer Sciences",
+      "scores": {
+        "Learning Engagement Score": 0.159,
+        "Viewer Approval Score": 0.166,
+        "Learner Interaction Score": 0.036,
+        "Learning Impact Score": 0.136
+      }
+    },
+    {
+      "video_id": "0RkaxgRqegw",
+      "channel_title": "Natassha Selvaraj",
+      "scores": {
+        "Learning Engagement Score": 0.635,
+        "Viewer Approval Score": 0.665,
+        "Learner Interaction Score": 0.146,
+        "Learning Impact Score": 0.546
+      }
+    },
+    {
+      "video_id": "LjcMTj2UeSg",
+      "channel_title": "Career With Riwas ",
+      "scores": {
+        "Learning Engagement Score": 0.192,
+        "Viewer Approval Score": 0.202,
+        "Learner Interaction Score": 0.036,
+        "Learning Impact Score": 0.164
+      }
+    },
+    {
+      "video_id": "5K60zzEQ5vk",
+      "channel_title": "Jovian",
+      "scores": {
+        "Learning Engagement Score": 0.489,
+        "Viewer Approval Score": 0.521,
+        "Learner Interaction Score": 0.013,
+        "Learning Impact Score": 0.404
+      }
+    },
+    {
+      "video_id": "mGHZohCf11A",
+      "channel_title": "DataScientest",
+      "scores": {
+        "Learning Engagement Score": 0.149,
+        "Viewer Approval Score": 0.157,
+        "Learner Interaction Score": 0.029,
+        "Learning Impact Score": 0.127
+      }
+    },
+    {
+      "video_id": "UF7C3HoT4k0",
+      "channel_title": "Egor Howell",
+      "scores": {
+        "Learning Engagement Score": 0.535,
+        "Viewer Approval Score": 0.54,
+        "Learner Interaction Score": 0.327,
+        "Learning Impact Score": 0.495
+      }
+    },
+    {
+      "video_id": "qHsGPCgk6UY",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.268,
+        "Viewer Approval Score": 0.283,
+        "Learner Interaction Score": 0.03,
+        "Learning Impact Score": 0.225
+      }
+    },
+    {
+      "video_id": "PXj2ctBw3js",
+      "channel_title": "Anshul Sethi",
+      "scores": {
+        "Learning Engagement Score": 0.076,
+        "Viewer Approval Score": 0.081,
+        "Learner Interaction Score": 0.01,
+        "Learning Impact Score": 0.064
+      }
+    },
+    {
+      "video_id": "7NhbUyHyBfo",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.349,
+        "Viewer Approval Score": 0.369,
+        "Learner Interaction Score": 0.043,
+        "Learning Impact Score": 0.294
+      }
+    },
+    {
+      "video_id": "jZGWOUNeiFY",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.247,
+        "Viewer Approval Score": 0.262,
+        "Learner Interaction Score": 0.027,
+        "Learning Impact Score": 0.208
+      }
+    },
+    {
+      "video_id": "nI3YDvOmo3A",
+      "channel_title": "Tim Joo",
+      "scores": {
+        "Learning Engagement Score": 0.377,
+        "Viewer Approval Score": 0.381,
+        "Learner Interaction Score": 0.221,
+        "Learning Impact Score": 0.347
+      }
+    },
+    {
+      "video_id": "ncTHTN2_bZM",
+      "channel_title": "Egor Howell",
+      "scores": {
+        "Learning Engagement Score": 0.457,
+        "Viewer Approval Score": 0.452,
+        "Learner Interaction Score": 0.377,
+        "Learning Impact Score": 0.439
+      }
+    },
+    {
+      "video_id": "uIUvpJdYgSA",
+      "channel_title": "Apna College",
+      "scores": {
+        "Learning Engagement Score": 0.353,
+        "Viewer Approval Score": 0.366,
+        "Learner Interaction Score": 0.123,
+        "Learning Impact Score": 0.311
+      }
+    },
+    {
+      "video_id": "biJHe3M4kIU",
+      "channel_title": "Kedeisha Bryan - Your Data Career Coach",
+      "scores": {
+        "Learning Engagement Score": 0.281,
+        "Viewer Approval Score": 0.28,
+        "Learner Interaction Score": 0.217,
+        "Learning Impact Score": 0.268
+      }
+    },
+    {
+      "video_id": "8r9Jxeog7T0",
+      "channel_title": "Hire Ready",
+      "scores": {
+        "Learning Engagement Score": 0.425,
+        "Viewer Approval Score": 0.45,
+        "Learner Interaction Score": 0.046,
+        "Learning Impact Score": 0.356
+      }
+    },
+    {
+      "video_id": "aYBAYmnnhYk",
+      "channel_title": "Sajjaad Khader",
+      "scores": {
+        "Learning Engagement Score": 0.259,
+        "Viewer Approval Score": 0.275,
+        "Learner Interaction Score": 0.026,
+        "Learning Impact Score": 0.217
+      }
+    },
+    {
+      "video_id": "v-jPiFqTOsg",
+      "channel_title": "Ishan Sharma",
+      "scores": {
+        "Learning Engagement Score": 0.302,
+        "Viewer Approval Score": 0.31,
+        "Learner Interaction Score": 0.128,
+        "Learning Impact Score": 0.27
+      }
+    },
+    {
+      "video_id": "kPzSrM_mlUQ",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.427,
+        "Viewer Approval Score": 0.454,
+        "Learner Interaction Score": 0.026,
+        "Learning Impact Score": 0.355
+      }
+    },
+    {
+      "video_id": "kPzSrM_mlUQ",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.427,
+        "Viewer Approval Score": 0.454,
+        "Learner Interaction Score": 0.026,
+        "Learning Impact Score": 0.355
+      }
+    },
+    {
+      "video_id": "9SAICDB7KRg",
+      "channel_title": "Hochschule Karlsruhe",
+      "scores": {
+        "Learning Engagement Score": 0.146,
+        "Viewer Approval Score": 0.15,
+        "Learner Interaction Score": 0.059,
+        "Learning Impact Score": 0.13
+      }
+    },
+    {
+      "video_id": "lexSdX1XjYQ",
+      "channel_title": "DecisionForest",
+      "scores": {
+        "Learning Engagement Score": 0.287,
+        "Viewer Approval Score": 0.301,
+        "Learner Interaction Score": 0.058,
+        "Learning Impact Score": 0.245
+      }
+    },
+    {
+      "video_id": "hfLy1c2e4CE",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.459,
+        "Viewer Approval Score": 0.465,
+        "Learner Interaction Score": 0.262,
+        "Learning Impact Score": 0.421
+      }
+    },
+    {
+      "video_id": "ms1n039WShY",
+      "channel_title": "Anwar Haq",
+      "scores": {
+        "Learning Engagement Score": 0.484,
+        "Viewer Approval Score": 0.481,
+        "Learner Interaction Score": 0.379,
+        "Learning Impact Score": 0.462
+      }
+    },
+    {
+      "video_id": "vFMmtQCaX0I",
+      "channel_title": "Lore So What",
+      "scores": {
+        "Learning Engagement Score": 0.296,
+        "Viewer Approval Score": 0.299,
+        "Learner Interaction Score": 0.181,
+        "Learning Impact Score": 0.274
+      }
+    },
+    {
+      "video_id": "x-adGaN2pNI",
+      "channel_title": "Data Engineer Academy",
+      "scores": {
+        "Learning Engagement Score": 0.066,
+        "Viewer Approval Score": 0.07,
+        "Learner Interaction Score": 0.006,
+        "Learning Impact Score": 0.055
+      }
+    },
+    {
+      "video_id": "F25knulvz-A",
+      "channel_title": "Charlotte Chaze | Break Into Tech",
+      "scores": {
+        "Learning Engagement Score": 0.335,
+        "Viewer Approval Score": 0.354,
+        "Learner Interaction Score": 0.04,
+        "Learning Impact Score": 0.282
+      }
+    },
+    {
+      "video_id": "sDlH-YPXd0A",
+      "channel_title": "Sahil & Sarra",
+      "scores": {
+        "Learning Engagement Score": 0.451,
+        "Viewer Approval Score": 0.47,
+        "Learner Interaction Score": 0.126,
+        "Learning Impact Score": 0.391
+      }
+    },
+    {
+      "video_id": "RaQf6cRyHBY",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.236,
+        "Viewer Approval Score": 0.247,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.203
+      }
+    },
+    {
+      "video_id": "lacZhiHf5iw",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.533,
+        "Viewer Approval Score": 0.568,
+        "Learner Interaction Score": 0.02,
+        "Learning Impact Score": 0.441
+      }
+    },
+    {
+      "video_id": "c-93LJMdbfw",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.23,
+        "Viewer Approval Score": 0.246,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.208
+      }
+    },
+    {
+      "video_id": "blMufq1s29I",
+      "channel_title": "SCALER",
+      "scores": {
+        "Learning Engagement Score": 0.358,
+        "Viewer Approval Score": 0.336,
+        "Learner Interaction Score": 0.48,
+        "Learning Impact Score": 0.376
+      }
+    },
+    {
+      "video_id": "hDQYFK7HTSE",
+      "channel_title": "GeeksforGeeks",
+      "scores": {
+        "Learning Engagement Score": 0.432,
+        "Viewer Approval Score": 0.46,
+        "Learner Interaction Score": 0.018,
+        "Learning Impact Score": 0.357
+      }
+    },
+    {
+      "video_id": "YM2YRnSpFqc",
+      "channel_title": "Dicoding Indonesia",
+      "scores": {
+        "Learning Engagement Score": 0.249,
+        "Viewer Approval Score": 0.265,
+        "Learner Interaction Score": 0.015,
+        "Learning Impact Score": 0.207
+      }
+    },
+    {
+      "video_id": "JwSS70SZdyM",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.234,
+        "Viewer Approval Score": 0.246,
+        "Learner Interaction Score": 0.043,
+        "Learning Impact Score": 0.199
+      }
+    },
+    {
+      "video_id": "dMn2QFTyXUQ",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.334,
+        "Viewer Approval Score": 0.345,
+        "Learner Interaction Score": 0.12,
+        "Learning Impact Score": 0.294
+      }
+    },
+    {
+      "video_id": "HsjErdmLmxo",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.147,
+        "Viewer Approval Score": 0.135,
+        "Learner Interaction Score": 0.228,
+        "Learning Impact Score": 0.159
+      }
+    },
+    {
+      "video_id": "bLZ-LSsQMCc",
+      "channel_title": "WsCube Tech",
+      "scores": {
+        "Learning Engagement Score": 0.242,
+        "Viewer Approval Score": 0.249,
+        "Learner Interaction Score": 0.093,
+        "Learning Impact Score": 0.214
+      }
+    },
+    {
+      "video_id": "wvcJQkGsLvM",
+      "channel_title": "Vedantu JEE Made Ejee",
+      "scores": {
+        "Learning Engagement Score": 0.365,
+        "Viewer Approval Score": 0.389,
+        "Learner Interaction Score": 0.01,
+        "Learning Impact Score": 0.301
+      }
+    },
+    {
+      "video_id": "Jz1PQkZXkmo",
+      "channel_title": "Learnomate Technologies",
+      "scores": {
+        "Learning Engagement Score": 0.219,
+        "Viewer Approval Score": 0.225,
+        "Learner Interaction Score": 0.091,
+        "Learning Impact Score": 0.195
+      }
+    },
+    {
+      "video_id": "PSoe_GmDroE",
+      "channel_title": "LeCoinStat",
+      "scores": {
+        "Learning Engagement Score": 0.681,
+        "Viewer Approval Score": 0.689,
+        "Learner Interaction Score": 0.408,
+        "Learning Impact Score": 0.629
+      }
+    },
+    {
+      "video_id": "CAlfPNOkweQ",
+      "channel_title": "CampusX",
+      "scores": {
+        "Learning Engagement Score": 0.42,
+        "Viewer Approval Score": 0.419,
+        "Learner Interaction Score": 0.307,
+        "Learning Impact Score": 0.397
+      }
+    },
+    {
+      "video_id": "9SAICDB7KRg",
+      "channel_title": "Hochschule Karlsruhe",
+      "scores": {
+        "Learning Engagement Score": 0.146,
+        "Viewer Approval Score": 0.15,
+        "Learner Interaction Score": 0.059,
+        "Learning Impact Score": 0.13
+      }
+    },
+    {
+      "video_id": "PgPVrm3OS5M",
+      "channel_title": "Ribhu Mukherjee | Susmita Sen",
+      "scores": {
+        "Learning Engagement Score": 0.226,
+        "Viewer Approval Score": 0.234,
+        "Learner Interaction Score": 0.076,
+        "Learning Impact Score": 0.199
+      }
+    },
+    {
+      "video_id": "u4_U9lv4WG8",
+      "channel_title": "HolaMundo",
+      "scores": {
+        "Learning Engagement Score": 0.381,
+        "Viewer Approval Score": 0.401,
+        "Learner Interaction Score": 0.072,
+        "Learning Impact Score": 0.325
+      }
+    },
+    {
+      "video_id": "qS8WPG0lCyA",
+      "channel_title": "GeeksforGeeks",
+      "scores": {
+        "Learning Engagement Score": 0.895,
+        "Viewer Approval Score": 0.95,
+        "Learner Interaction Score": 0.066,
+        "Learning Impact Score": 0.746
+      }
+    },
+    {
+      "video_id": "vFMmtQCaX0I",
+      "channel_title": "Lore So What",
+      "scores": {
+        "Learning Engagement Score": 0.296,
+        "Viewer Approval Score": 0.299,
+        "Learner Interaction Score": 0.181,
+        "Learning Impact Score": 0.274
+      }
+    },
+    {
+      "video_id": "hfLy1c2e4CE",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.459,
+        "Viewer Approval Score": 0.465,
+        "Learner Interaction Score": 0.262,
+        "Learning Impact Score": 0.421
+      }
+    },
+    {
+      "video_id": "AtRMR2IKELM",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.234,
+        "Viewer Approval Score": 0.25,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.212
+      }
+    },
+    {
+      "video_id": "AtRMR2IKELM",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.234,
+        "Viewer Approval Score": 0.25,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.212
+      }
+    },
+    {
+      "video_id": "2o5jDUxuxtg",
+      "channel_title": "Shailja Mishra",
+      "scores": {
+        "Learning Engagement Score": 0.233,
+        "Viewer Approval Score": 0.245,
+        "Learner Interaction Score": 0.043,
+        "Learning Impact Score": 0.198
+      }
+    },
+    {
+      "video_id": "sDlH-YPXd0A",
+      "channel_title": "Sahil & Sarra",
+      "scores": {
+        "Learning Engagement Score": 0.451,
+        "Viewer Approval Score": 0.47,
+        "Learner Interaction Score": 0.126,
+        "Learning Impact Score": 0.391
+      }
+    },
+    {
+      "video_id": "UeqBOpopz1k",
+      "channel_title": "Data with Zach",
+      "scores": {
+        "Learning Engagement Score": 0.346,
+        "Viewer Approval Score": 0.363,
+        "Learner Interaction Score": 0.067,
+        "Learning Impact Score": 0.295
+      }
+    },
+    {
+      "video_id": "OKU32_-2X5A",
+      "channel_title": "Analytics Vidhya",
+      "scores": {
+        "Learning Engagement Score": 0.448,
+        "Viewer Approval Score": 0.477,
+        "Learner Interaction Score": 0.022,
+        "Learning Impact Score": 0.372
+      }
+    },
+    {
+      "video_id": "1upvLCpSLBM",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": 0.384,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "1upvLCpSLBM",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": 0.384,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "6qx0yntKpd4",
+      "channel_title": "DataMites",
+      "scores": {
+        "Learning Engagement Score": 0.015,
+        "Viewer Approval Score": 0.016,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.032
+      }
+    },
+    {
+      "video_id": "iMfg6Qtj8hA",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.344,
+        "Viewer Approval Score": 0.363,
+        "Learner Interaction Score": 0.055,
+        "Learning Impact Score": 0.292
+      }
+    },
+    {
+      "video_id": "iMfg6Qtj8hA",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.344,
+        "Viewer Approval Score": 0.363,
+        "Learner Interaction Score": 0.055,
+        "Learning Impact Score": 0.292
+      }
+    },
+    {
+      "video_id": "bLZ-LSsQMCc",
+      "channel_title": "WsCube Tech",
+      "scores": {
+        "Learning Engagement Score": 0.242,
+        "Viewer Approval Score": 0.249,
+        "Learner Interaction Score": 0.093,
+        "Learning Impact Score": 0.214
+      }
+    },
+    {
+      "video_id": "PSoe_GmDroE",
+      "channel_title": "LeCoinStat",
+      "scores": {
+        "Learning Engagement Score": 0.681,
+        "Viewer Approval Score": 0.689,
+        "Learner Interaction Score": 0.408,
+        "Learning Impact Score": 0.629
+      }
+    },
+    {
+      "video_id": "YM2YRnSpFqc",
+      "channel_title": "Dicoding Indonesia",
+      "scores": {
+        "Learning Engagement Score": 0.249,
+        "Viewer Approval Score": 0.265,
+        "Learner Interaction Score": 0.015,
+        "Learning Impact Score": 0.207
+      }
+    },
+    {
+      "video_id": "VkOSXEXCcZw",
+      "channel_title": "Living In Telkom",
+      "scores": {
+        "Learning Engagement Score": 0.277,
+        "Viewer Approval Score": 0.296,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.247
+      }
+    },
+    {
+      "video_id": "CAlfPNOkweQ",
+      "channel_title": "CampusX",
+      "scores": {
+        "Learning Engagement Score": 0.42,
+        "Viewer Approval Score": 0.419,
+        "Learner Interaction Score": 0.307,
+        "Learning Impact Score": 0.397
+      }
+    },
+    {
+      "video_id": "JwSS70SZdyM",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.234,
+        "Viewer Approval Score": 0.246,
+        "Learner Interaction Score": 0.043,
+        "Learning Impact Score": 0.199
+      }
+    },
+    {
+      "video_id": "Dbyz5XjQer4",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.613,
+        "Viewer Approval Score": 0.654,
+        "Learner Interaction Score": 0.024,
+        "Learning Impact Score": 0.508
+      }
+    },
+    {
+      "video_id": "Jz1PQkZXkmo",
+      "channel_title": "Learnomate Technologies",
+      "scores": {
+        "Learning Engagement Score": 0.219,
+        "Viewer Approval Score": 0.225,
+        "Learner Interaction Score": 0.091,
+        "Learning Impact Score": 0.195
+      }
+    },
+    {
+      "video_id": "blMufq1s29I",
+      "channel_title": "SCALER",
+      "scores": {
+        "Learning Engagement Score": 0.358,
+        "Viewer Approval Score": 0.336,
+        "Learner Interaction Score": 0.48,
+        "Learning Impact Score": 0.376
+      }
+    },
+    {
+      "video_id": "05IST7Q1MXY",
+      "channel_title": "Nishant Chahar",
+      "scores": {
+        "Learning Engagement Score": 0.482,
+        "Viewer Approval Score": 0.486,
+        "Learner Interaction Score": 0.3,
+        "Learning Impact Score": 0.447
+      }
+    },
+    {
+      "video_id": "u8ABLLK3-z0",
+      "channel_title": "Data with Baraa",
+      "scores": {
+        "Learning Engagement Score": 0.532,
+        "Viewer Approval Score": 0.564,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.446
+      }
+    },
+    {
+      "video_id": "u8ABLLK3-z0",
+      "channel_title": "Data with Baraa",
+      "scores": {
+        "Learning Engagement Score": 0.532,
+        "Viewer Approval Score": 0.564,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.446
+      }
+    },
+    {
+      "video_id": "dMn2QFTyXUQ",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.334,
+        "Viewer Approval Score": 0.345,
+        "Learner Interaction Score": 0.12,
+        "Learning Impact Score": 0.294
+      }
+    },
+    {
+      "video_id": "FTpmwX94_Yo",
+      "channel_title": "freeCodeCamp.org",
+      "scores": {
+        "Learning Engagement Score": 0.295,
+        "Viewer Approval Score": 0.307,
+        "Learner Interaction Score": 0.083,
+        "Learning Impact Score": 0.256
+      }
+    },
+    {
+      "video_id": "LVrRpjmgfgc",
+      "channel_title": "Analytics Vidhya",
+      "scores": {
+        "Learning Engagement Score": 0.447,
+        "Viewer Approval Score": 0.476,
+        "Learner Interaction Score": 0.018,
+        "Learning Impact Score": 0.37
+      }
+    },
+    {
+      "video_id": "gh3JS0wgSb0",
+      "channel_title": "Error Makes Clever",
+      "scores": {
+        "Learning Engagement Score": 0.778,
+        "Viewer Approval Score": 0.826,
+        "Learner Interaction Score": 0.056,
+        "Learning Impact Score": 0.648
+      }
+    },
+    {
+      "video_id": "XbiZLYT1-_8",
+      "channel_title": "Rob Mulla",
+      "scores": {
+        "Learning Engagement Score": 0.52,
+        "Viewer Approval Score": 0.55,
+        "Learner Interaction Score": 0.066,
+        "Learning Impact Score": 0.438
+      }
+    },
+    {
+      "video_id": "Zt567T2MyOg",
+      "channel_title": "Ruchi Awasthi",
+      "scores": {
+        "Learning Engagement Score": 0.127,
+        "Viewer Approval Score": 0.13,
+        "Learner Interaction Score": 0.052,
+        "Learning Impact Score": 0.113
+      }
+    },
+    {
+      "video_id": "eGrZAxjcIhk",
+      "channel_title": "Tech Stories in 2 Minutes",
+      "scores": {
+        "Learning Engagement Score": 0.237,
+        "Viewer Approval Score": 0.251,
+        "Learner Interaction Score": 0.022,
+        "Learning Impact Score": 0.198
+      }
+    },
+    {
+      "video_id": "sWMZW9qf_-Y",
+      "channel_title": "College Wallah",
+      "scores": {
+        "Learning Engagement Score": 0.611,
+        "Viewer Approval Score": 0.651,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.506
+      }
+    },
+    {
+      "video_id": "goydyfsEYDw",
+      "channel_title": "Shiva Gautam",
+      "scores": {
+        "Learning Engagement Score": 0.261,
+        "Viewer Approval Score": 0.279,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.234
+      }
+    },
+    {
+      "video_id": "VB0-YGC72qk",
+      "channel_title": "Sreevidhya Santhosh",
+      "scores": {
+        "Learning Engagement Score": 0.291,
+        "Viewer Approval Score": 0.308,
+        "Learner Interaction Score": 0.037,
+        "Learning Impact Score": 0.245
+      }
+    },
+    {
+      "video_id": "E4pB8CDPklE",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.371,
+        "Viewer Approval Score": 0.393,
+        "Learner Interaction Score": 0.038,
+        "Learning Impact Score": 0.311
+      }
+    },
+    {
+      "video_id": "9NPtLePy-Qg",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.651,
+        "Viewer Approval Score": 0.691,
+        "Learner Interaction Score": 0.056,
+        "Learning Impact Score": 0.544
+      }
+    },
+    {
+      "video_id": "4rPOvlQv-10",
+      "channel_title": "The Street Wire",
+      "scores": {
+        "Learning Engagement Score": 0.301,
+        "Viewer Approval Score": 0.317,
+        "Learner Interaction Score": 0.057,
+        "Learning Impact Score": 0.257
+      }
+    },
+    {
+      "video_id": "A3ZSv6IqXY8",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.224,
+        "Viewer Approval Score": 0.234,
+        "Learner Interaction Score": 0.049,
+        "Learning Impact Score": 0.192
+      }
+    },
+    {
+      "video_id": "vwCK7WA5Z_E",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.455,
+        "Viewer Approval Score": 0.481,
+        "Learner Interaction Score": 0.055,
+        "Learning Impact Score": 0.383
+      }
+    },
+    {
+      "video_id": "vwCK7WA5Z_E",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.455,
+        "Viewer Approval Score": 0.481,
+        "Learner Interaction Score": 0.055,
+        "Learning Impact Score": 0.383
+      }
+    },
+    {
+      "video_id": "ZfBOYJgCTKA",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.507,
+        "Viewer Approval Score": 0.539,
+        "Learner Interaction Score": 0.035,
+        "Learning Impact Score": 0.422
+      }
+    },
+    {
+      "video_id": "ZfBOYJgCTKA",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.507,
+        "Viewer Approval Score": 0.539,
+        "Learner Interaction Score": 0.035,
+        "Learning Impact Score": 0.422
+      }
+    },
+    {
+      "video_id": "fiwRJ417Qmw",
+      "channel_title": "Datademia",
+      "scores": {
+        "Learning Engagement Score": 0.417,
+        "Viewer Approval Score": 0.445,
+        "Learner Interaction Score": 0.009,
+        "Learning Impact Score": 0.344
+      }
+    },
+    {
+      "video_id": "ZODcJYmpZh8",
+      "channel_title": "Shahi Vlogs",
+      "scores": {
+        "Learning Engagement Score": 0.221,
+        "Viewer Approval Score": 0.228,
+        "Learner Interaction Score": 0.086,
+        "Learning Impact Score": 0.196
+      }
+    },
+    {
+      "video_id": "90VmkzCs1Kw",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.474,
+        "Viewer Approval Score": 0.496,
+        "Learner Interaction Score": 0.111,
+        "Learning Impact Score": 0.408
+      }
+    },
+    {
+      "video_id": "90VmkzCs1Kw",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.474,
+        "Viewer Approval Score": 0.496,
+        "Learner Interaction Score": 0.111,
+        "Learning Impact Score": 0.408
+      }
+    },
+    {
+      "video_id": "481lC6AeLIg",
+      "channel_title": "Co-Coder",
+      "scores": {
+        "Learning Engagement Score": NaN,
+        "Viewer Approval Score": NaN,
+        "Learner Interaction Score": 0.004,
+        "Learning Impact Score": NaN
+      }
+    },
+    {
+      "video_id": "-gVtb3qsuJA",
+      "channel_title": "Anwar Haq",
+      "scores": {
+        "Learning Engagement Score": 0.275,
+        "Viewer Approval Score": 0.267,
+        "Learner Interaction Score": 0.279,
+        "Learning Impact Score": 0.273
+      }
+    },
+    {
+      "video_id": "V7bDETuj3RM",
+      "channel_title": "Algoritma Enterprise AI Education",
+      "scores": {
+        "Learning Engagement Score": 0.25,
+        "Viewer Approval Score": 0.267,
+        "Learner Interaction Score": 0.005,
+        "Learning Impact Score": 0.206
+      }
+    },
+    {
+      "video_id": "TzFjdjvUMTs",
+      "channel_title": "Tech Stories in 2 Minutes",
+      "scores": {
+        "Learning Engagement Score": 0.216,
+        "Viewer Approval Score": 0.227,
+        "Learner Interaction Score": 0.033,
+        "Learning Impact Score": 0.183
+      }
+    },
+    {
+      "video_id": "sQGEK0bKQAs",
+      "channel_title": "CYC Official ",
+      "scores": {
+        "Learning Engagement Score": 0.21,
+        "Viewer Approval Score": 0.222,
+        "Learner Interaction Score": 0.036,
+        "Learning Impact Score": 0.179
+      }
+    },
+    {
+      "video_id": "lOeoltoCfVw",
+      "channel_title": "Error Makes Clever",
+      "scores": {
+        "Learning Engagement Score": 0.948,
+        "Viewer Approval Score": 1.0,
+        "Learner Interaction Score": 0.137,
+        "Learning Impact Score": 0.801
+      }
+    },
+    {
+      "video_id": "Dbyz5XjQer4",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.613,
+        "Viewer Approval Score": 0.654,
+        "Learner Interaction Score": 0.024,
+        "Learning Impact Score": 0.508
+      }
+    },
+    {
+      "video_id": "sCsWqRj1wXg",
+      "channel_title": "LearnTube",
+      "scores": {
+        "Learning Engagement Score": 0.076,
+        "Viewer Approval Score": 0.08,
+        "Learner Interaction Score": 0.007,
+        "Learning Impact Score": 0.063
+      }
+    },
+    {
+      "video_id": "sqFY7elv-mI",
+      "channel_title": "Avery Smith | Data Analyst",
+      "scores": {
+        "Learning Engagement Score": 0.301,
+        "Viewer Approval Score": 0.285,
+        "Learner Interaction Score": 0.376,
+        "Learning Impact Score": 0.311
+      }
+    },
+    {
+      "video_id": "AtRMR2IKELM",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.234,
+        "Viewer Approval Score": 0.25,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.212
+      }
+    },
+    {
+      "video_id": "AtRMR2IKELM",
+      "channel_title": "Simplilearn",
+      "scores": {
+        "Learning Engagement Score": 0.234,
+        "Viewer Approval Score": 0.25,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.212
+      }
+    },
+    {
+      "video_id": "u8ABLLK3-z0",
+      "channel_title": "Data with Baraa",
+      "scores": {
+        "Learning Engagement Score": 0.532,
+        "Viewer Approval Score": 0.564,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.446
+      }
+    },
+    {
+      "video_id": "u8ABLLK3-z0",
+      "channel_title": "Data with Baraa",
+      "scores": {
+        "Learning Engagement Score": 0.532,
+        "Viewer Approval Score": 0.564,
+        "Learner Interaction Score": 0.054,
+        "Learning Impact Score": 0.446
+      }
+    },
+    {
+      "video_id": "Zt567T2MyOg",
+      "channel_title": "Ruchi Awasthi",
+      "scores": {
+        "Learning Engagement Score": 0.127,
+        "Viewer Approval Score": 0.13,
+        "Learner Interaction Score": 0.052,
+        "Learning Impact Score": 0.113
+      }
+    },
+    {
+      "video_id": "1sQDJSQBUe4",
+      "channel_title": "Luke Barousse",
+      "scores": {
+        "Learning Engagement Score": 0.269,
+        "Viewer Approval Score": 0.262,
+        "Learner Interaction Score": 0.257,
+        "Learning Impact Score": 0.265
+      }
+    },
+    {
+      "video_id": "lOeoltoCfVw",
+      "channel_title": "Error Makes Clever",
+      "scores": {
+        "Learning Engagement Score": 0.948,
+        "Viewer Approval Score": 1.0,
+        "Learner Interaction Score": 0.137,
+        "Learning Impact Score": 0.801
+      }
+    },
+    {
+      "video_id": "S8nflqR8mkI",
+      "channel_title": "Anwar Haq",
+      "scores": {
+        "Learning Engagement Score": 0.557,
+        "Viewer Approval Score": 0.546,
+        "Learner Interaction Score": 0.507,
+        "Learning Impact Score": 0.544
+      }
+    },
+    {
+      "video_id": "LVrRpjmgfgc",
+      "channel_title": "Analytics Vidhya",
+      "scores": {
+        "Learning Engagement Score": 0.447,
+        "Viewer Approval Score": 0.476,
+        "Learner Interaction Score": 0.018,
+        "Learning Impact Score": 0.37
+      }
+    },
+    {
+      "video_id": "-kYYzotfYfE",
+      "channel_title": "KaaShiv InfoTech",
+      "scores": {
+        "Learning Engagement Score": 0.671,
+        "Viewer Approval Score": 0.712,
+        "Learner Interaction Score": 0.06,
+        "Learning Impact Score": 0.561
+      }
+    },
+    {
+      "video_id": "sWMZW9qf_-Y",
+      "channel_title": "College Wallah",
+      "scores": {
+        "Learning Engagement Score": 0.611,
+        "Viewer Approval Score": 0.651,
+        "Learner Interaction Score": 0.028,
+        "Learning Impact Score": 0.506
+      }
+    },
+    {
+      "video_id": "goydyfsEYDw",
+      "channel_title": "Shiva Gautam",
+      "scores": {
+        "Learning Engagement Score": 0.261,
+        "Viewer Approval Score": 0.279,
+        "Learner Interaction Score": null,
+        "Learning Impact Score": 0.234
+      }
+    },
+    {
+      "video_id": "E4pB8CDPklE",
+      "channel_title": "Sundas Khalid",
+      "scores": {
+        "Learning Engagement Score": 0.371,
+        "Viewer Approval Score": 0.393,
+        "Learner Interaction Score": 0.038,
+        "Learning Impact Score": 0.311
+      }
+    },
+    {
+      "video_id": "eGrZAxjcIhk",
+      "channel_title": "Tech Stories in 2 Minutes",
+      "scores": {
+        "Learning Engagement Score": 0.237,
+        "Viewer Approval Score": 0.251,
+        "Learner Interaction Score": 0.022,
+        "Learning Impact Score": 0.198
+      }
+    },
+    {
+      "video_id": "4rPOvlQv-10",
+      "channel_title": "The Street Wire",
+      "scores": {
+        "Learning Engagement Score": 0.301,
+        "Viewer Approval Score": 0.317,
+        "Learner Interaction Score": 0.057,
+        "Learning Impact Score": 0.257
+      }
+    },
+    {
+      "video_id": "9NPtLePy-Qg",
+      "channel_title": "CodeWithHarry",
+      "scores": {
+        "Learning Engagement Score": 0.651,
+        "Viewer Approval Score": 0.691,
+        "Learner Interaction Score": 0.056,
+        "Learning Impact Score": 0.544
+      }
+    },
+    {
+      "video_id": "cl1H0gY0mVo",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.235,
+        "Viewer Approval Score": 0.242,
+        "Learner Interaction Score": 0.096,
+        "Learning Impact Score": 0.209
+      }
+    },
+    {
+      "video_id": "6rYVt_2q_BM",
+      "channel_title": "Intellipaat",
+      "scores": {
+        "Learning Engagement Score": 0.209,
+        "Viewer Approval Score": 0.216,
+        "Learner Interaction Score": 0.072,
+        "Learning Impact Score": 0.184
+      }
+    },
+    {
+      "video_id": "dwKpevJufDo",
+      "channel_title": "The Incubator Hub",
+      "scores": {
+        "Learning Engagement Score": 0.405,
+        "Viewer Approval Score": 0.407,
+        "Learner Interaction Score": 0.267,
+        "Learning Impact Score": 0.378
+      }
+    },
+    {
+      "video_id": "VB0-YGC72qk",
+      "channel_title": "Sreevidhya Santhosh",
+      "scores": {
+        "Learning Engagement Score": 0.291,
+        "Viewer Approval Score": 0.308,
+        "Learner Interaction Score": 0.037,
+        "Learning Impact Score": 0.245
+      }
+    },
+    {
+      "video_id": "vwCK7WA5Z_E",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.455,
+        "Viewer Approval Score": 0.481,
+        "Learner Interaction Score": 0.055,
+        "Learning Impact Score": 0.383
+      }
+    },
+    {
+      "video_id": "vwCK7WA5Z_E",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.455,
+        "Viewer Approval Score": 0.481,
+        "Learner Interaction Score": 0.055,
+        "Learning Impact Score": 0.383
+      }
+    },
+    {
+      "video_id": "ZODcJYmpZh8",
+      "channel_title": "Shahi Vlogs",
+      "scores": {
+        "Learning Engagement Score": 0.221,
+        "Viewer Approval Score": 0.228,
+        "Learner Interaction Score": 0.086,
+        "Learning Impact Score": 0.196
+      }
+    },
+    {
+      "video_id": "ZfBOYJgCTKA",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.507,
+        "Viewer Approval Score": 0.539,
+        "Learner Interaction Score": 0.035,
+        "Learning Impact Score": 0.422
+      }
+    },
+    {
+      "video_id": "ZfBOYJgCTKA",
+      "channel_title": "BEPEC",
+      "scores": {
+        "Learning Engagement Score": 0.507,
+        "Viewer Approval Score": 0.539,
+        "Learner Interaction Score": 0.035,
+        "Learning Impact Score": 0.422
+      }
+    },
+    {
+      "video_id": "V7bDETuj3RM",
+      "channel_title": "Algoritma Enterprise AI Education",
+      "scores": {
+        "Learning Engagement Score": 0.25,
+        "Viewer Approval Score": 0.267,
+        "Learner Interaction Score": 0.005,
+        "Learning Impact Score": 0.206
+      }
+    }
+  ],
+  "channel_level": [
+    {
+      "channel_title": "365 Data Science",
+      "Educational Engagement Index": 0.192
+    },
+    {
+      "channel_title": "ANKIT",
+      "Educational Engagement Index": 0.125
+    },
+    {
+      "channel_title": "Afi Global Education",
+      "Educational Engagement Index": 0.233
+    },
+    {
+      "channel_title": "Algoritma Enterprise AI Education",
+      "Educational Engagement Index": 0.204
+    },
+    {
+      "channel_title": "Alura",
+      "Educational Engagement Index": 0.365
+    },
+    {
+      "channel_title": "Analytics Vidhya",
+      "Educational Engagement Index": 0.301
+    },
+    {
+      "channel_title": "Anshul Sethi",
+      "Educational Engagement Index": 0.129
+    },
+    {
+      "channel_title": "Anwar Haq",
+      "Educational Engagement Index": 0.249
+    },
+    {
+      "channel_title": "Apna College",
+      "Educational Engagement Index": 0.277
+    },
+    {
+      "channel_title": "Asimov Academy",
+      "Educational Engagement Index": 0.292
+    },
+    {
+      "channel_title": "Avery Smith | Data Analyst",
+      "Educational Engagement Index": 0.231
+    },
+    {
+      "channel_title": "BEPEC",
+      "Educational Engagement Index": 0.276
+    },
+    {
+      "channel_title": "CYC Official ",
+      "Educational Engagement Index": 0.236
+    },
+    {
+      "channel_title": "CampusX",
+      "Educational Engagement Index": 0.295
+    },
+    {
+      "channel_title": "Career With Riwas ",
+      "Educational Engagement Index": 0.206
+    },
+    {
+      "channel_title": "CareerFoundry",
+      "Educational Engagement Index": 0.235
+    },
+    {
+      "channel_title": "Chai aur Code",
+      "Educational Engagement Index": 0.378
+    },
+    {
+      "channel_title": "Charlotte Chaze | Break Into Tech",
+      "Educational Engagement Index": 0.226
+    },
+    {
+      "channel_title": "Cité des Métiers des Côtes d'Armor",
+      "Educational Engagement Index": 0.16
+    },
+    {
+      "channel_title": "Co-Coder",
+      "Educational Engagement Index": NaN
+    },
+    {
+      "channel_title": "CodeWithHarry",
+      "Educational Engagement Index": 0.316
+    },
+    {
+      "channel_title": "Codelopment",
+      "Educational Engagement Index": 0.282
+    },
+    {
+      "channel_title": "College Wallah",
+      "Educational Engagement Index": 0.341
+    },
+    {
+      "channel_title": "Coursera",
+      "Educational Engagement Index": 0.262
+    },
+    {
+      "channel_title": "Darshil Parmar",
+      "Educational Engagement Index": 0.306
+    },
+    {
+      "channel_title": "Data Engineer Academy",
+      "Educational Engagement Index": 0.149
+    },
+    {
+      "channel_title": "Data with Baraa",
+      "Educational Engagement Index": 0.294
+    },
+    {
+      "channel_title": "Data with Zach",
+      "Educational Engagement Index": 0.222
+    },
+    {
+      "channel_title": "DataMites",
+      "Educational Engagement Index": 0.166
+    },
+    {
+      "channel_title": "DataScientest",
+      "Educational Engagement Index": 0.193
+    },
+    {
+      "channel_title": "Datademia",
+      "Educational Engagement Index": 0.266
+    },
+    {
+      "channel_title": "DecisionForest",
+      "Educational Engagement Index": 0.197
+    },
+    {
+      "channel_title": "Dicoding Indonesia",
+      "Educational Engagement Index": 0.219
+    },
+    {
+      "channel_title": "Egor Howell",
+      "Educational Engagement Index": 0.234
+    },
+    {
+      "channel_title": "Emma Ding",
+      "Educational Engagement Index": 0.21
+    },
+    {
+      "channel_title": "Error Makes Clever",
+      "Educational Engagement Index": 0.409
+    },
+    {
+      "channel_title": "Eye on Tech",
+      "Educational Engagement Index": 0.17
+    },
+    {
+      "channel_title": "GeeksforGeeks",
+      "Educational Engagement Index": 0.353
+    },
+    {
+      "channel_title": "Google Career Certificates",
+      "Educational Engagement Index": 0.15
+    },
+    {
+      "channel_title": "Great Learning",
+      "Educational Engagement Index": 0.235
+    },
+    {
+      "channel_title": "Hire Ready",
+      "Educational Engagement Index": 0.231
+    },
+    {
+      "channel_title": "Hochschule Karlsruhe",
+      "Educational Engagement Index": 0.165
+    },
+    {
+      "channel_title": "HolaMundo",
+      "Educational Engagement Index": 0.239
+    },
+    {
+      "channel_title": "IBM Technology",
+      "Educational Engagement Index": 0.228
+    },
+    {
+      "channel_title": "INTTRVU",
+      "Educational Engagement Index": 0.193
+    },
+    {
+      "channel_title": "Intellipaat",
+      "Educational Engagement Index": 0.27
+    },
+    {
+      "channel_title": "Ishan Sharma",
+      "Educational Engagement Index": 0.255
+    },
+    {
+      "channel_title": "Jean Lee",
+      "Educational Engagement Index": 0.183
+    },
+    {
+      "channel_title": "Jerry Strazzeri",
+      "Educational Engagement Index": 0.488
+    },
+    {
+      "channel_title": "Joma Tech",
+      "Educational Engagement Index": 0.202
+    },
+    {
+      "channel_title": "Jovian",
+      "Educational Engagement Index": 0.258
+    },
+    {
+      "channel_title": "KaaShiv InfoTech",
+      "Educational Engagement Index": 0.38
+    },
+    {
+      "channel_title": "Kedeisha Bryan - Your Data Career Coach",
+      "Educational Engagement Index": 0.173
+    },
+    {
+      "channel_title": "Khoury College of Computer Sciences",
+      "Educational Engagement Index": 0.172
+    },
+    {
+      "channel_title": "Krish Naik",
+      "Educational Engagement Index": 0.209
+    },
+    {
+      "channel_title": "LeCoinStat",
+      "Educational Engagement Index": 0.373
+    },
+    {
+      "channel_title": "LearnTube",
+      "Educational Engagement Index": 0.153
+    },
+    {
+      "channel_title": "Learnomate Technologies",
+      "Educational Engagement Index": 0.26
+    },
+    {
+      "channel_title": "Living In Telkom",
+      "Educational Engagement Index": 0.259
+    },
+    {
+      "channel_title": "Lore So What",
+      "Educational Engagement Index": 0.206
+    },
+    {
+      "channel_title": "Luke Barousse",
+      "Educational Engagement Index": 0.23
+    },
+    {
+      "channel_title": "Maggie In Data",
+      "Educational Engagement Index": 0.324
+    },
+    {
+      "channel_title": "Marina Wyss - AI & Machine Learning",
+      "Educational Engagement Index": 0.241
+    },
+    {
+      "channel_title": "Mo Chen",
+      "Educational Engagement Index": 0.27
+    },
+    {
+      "channel_title": "Natassha Selvaraj",
+      "Educational Engagement Index": 0.261
+    },
+    {
+      "channel_title": "Nishant Chahar",
+      "Educational Engagement Index": 0.305
+    },
+    {
+      "channel_title": "Platzi",
+      "Educational Engagement Index": 0.23
+    },
+    {
+      "channel_title": "Programming with Mosh",
+      "Educational Engagement Index": 0.191
+    },
+    {
+      "channel_title": "Purwadhika Digital Technology School",
+      "Educational Engagement Index": 0.234
+    },
+    {
+      "channel_title": "Rafa Gonzalez Gouveia",
+      "Educational Engagement Index": 0.338
+    },
+    {
+      "channel_title": "Rai",
+      "Educational Engagement Index": 0.31
+    },
+    {
+      "channel_title": "Ribhu Mukherjee | Susmita Sen",
+      "Educational Engagement Index": 0.181
+    },
+    {
+      "channel_title": "Rob Mulla",
+      "Educational Engagement Index": 0.262
+    },
+    {
+      "channel_title": "Ruchi Awasthi",
+      "Educational Engagement Index": 0.111
+    },
+    {
+      "channel_title": "SCALER",
+      "Educational Engagement Index": 0.297
+    },
+    {
+      "channel_title": "SOMOY TV Bulletin",
+      "Educational Engagement Index": 0.323
+    },
+    {
+      "channel_title": "Sahil & Sarra",
+      "Educational Engagement Index": 0.253
+    },
+    {
+      "channel_title": "Sajjaad Khader",
+      "Educational Engagement Index": 0.216
+    },
+    {
+      "channel_title": "Salary Transparent Street",
+      "Educational Engagement Index": 0.235
+    },
+    {
+      "channel_title": "Shahi Vlogs",
+      "Educational Engagement Index": 0.196
+    },
+    {
+      "channel_title": "Shailja Mishra",
+      "Educational Engagement Index": 0.086
+    },
+    {
+      "channel_title": "Shaw Talebi",
+      "Educational Engagement Index": 0.164
+    },
+    {
+      "channel_title": "Shiva Gautam",
+      "Educational Engagement Index": 0.226
+    },
+    {
+      "channel_title": "Simplilearn",
+      "Educational Engagement Index": 0.258
+    },
+    {
+      "channel_title": "Skooldio",
+      "Educational Engagement Index": NaN
+    },
+    {
+      "channel_title": "Sreevidhya Santhosh",
+      "Educational Engagement Index": 0.25
+    },
+    {
+      "channel_title": "Steve Brunton",
+      "Educational Engagement Index": 0.163
+    },
+    {
+      "channel_title": "Sundas Khalid",
+      "Educational Engagement Index": 0.211
+    },
+    {
+      "channel_title": "TEDx Talks",
+      "Educational Engagement Index": 0.336
+    },
+    {
+      "channel_title": "Tech Classes",
+      "Educational Engagement Index": 0.148
+    },
+    {
+      "channel_title": "Tech Stories in 2 Minutes",
+      "Educational Engagement Index": 0.193
+    },
+    {
+      "channel_title": "Thai PBS",
+      "Educational Engagement Index": 0.411
+    },
+    {
+      "channel_title": "The Incubator Hub",
+      "Educational Engagement Index": 0.269
+    },
+    {
+      "channel_title": "The Street Wire",
+      "Educational Engagement Index": 0.226
+    },
+    {
+      "channel_title": "The iScale",
+      "Educational Engagement Index": 0.251
+    },
+    {
+      "channel_title": "Thu Vu",
+      "Educational Engagement Index": 0.243
+    },
+    {
+      "channel_title": "Tim Joo",
+      "Educational Engagement Index": 0.24
+    },
+    {
+      "channel_title": "Tina Huang",
+      "Educational Engagement Index": 0.2
+    },
+    {
+      "channel_title": "Top Universities",
+      "Educational Engagement Index": 0.163
+    },
+    {
+      "channel_title": "UPES",
+      "Educational Engagement Index": 0.48
+    },
+    {
+      "channel_title": "Uncodemy",
+      "Educational Engagement Index": 0.16
+    },
+    {
+      "channel_title": "Vedantu JEE Made Ejee",
+      "Educational Engagement Index": 0.312
+    },
+    {
+      "channel_title": "Visual Studio Code",
+      "Educational Engagement Index": 0.213
+    },
+    {
+      "channel_title": "What's AI by Louis-François Bouchard",
+      "Educational Engagement Index": 0.199
+    },
+    {
+      "channel_title": "WsCube Tech",
+      "Educational Engagement Index": 0.259
+    },
+    {
+      "channel_title": "codebasics",
+      "Educational Engagement Index": 0.235
+    },
+    {
+      "channel_title": "edureka!",
+      "Educational Engagement Index": 0.253
+    },
+    {
+      "channel_title": "freeCodeCamp.org",
+      "Educational Engagement Index": 0.222
+    }
+  ]
+}
